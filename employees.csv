@@ -1,0 +1,21 @@
+Employee_ID,First_Name,Last_Name,Position,Department,Salary,Hire_Date
+1,Andrew,Cruz,CEO,Executive,120000,2023-11-21
+2,Nicholas,Williams,Operations Manager,Operations,85000,2024-07-12
+3,Sofia,Williams,Sales Manager,Sales,75000,2018-03-01
+4,Owen,Gray,Customer Support Specialist,Customer Support,45000,2018-06-29
+5,Christian,Davis,Customer Support Specialist,Customer Support,43000,2019-10-29
+6,Autumn,Reyes,Customer Support Specialist,Customer Support,42000,2024-09-11
+7,Sydney,Moore,Warehouse Manager,Warehouse,65000,2023-04-06
+8,Wyatt,Smith,Warehouse Associate,Warehouse,38000,2024-12-02
+9,Aiden,Hill,Warehouse Associate,Warehouse,37000,2024-02-08
+10,Natalia,Ross,Warehouse Associate,Warehouse,36000,2020-06-29
+11,Alexandra,James,Inventory Specialist,Inventory,55000,2024-09-04
+12,Henry,Watson,Procurement Specialist,Procurement,60000,2018-09-25
+13,Autumn,Garcia,Marketing Manager,Marketing,70000,2024-01-26
+14,Madison,Brown,Digital Marketing Specialist,Marketing,55000,2023-07-27
+15,Isaac,Davis,Financial Analyst,Finance,65000,2018-03-15
+16,Lydia,Stewart,Accountant,Finance,58000,2020-01-20
+17,Kayden,Thompson,HR Specialist,Human Resources,55000,2021-02-20
+18,Jaxon,Chavez,IT Support Specialist,IT,60000,2019-12-12
+19,Annabelle,Hernandez,Data Analyst,Analytics,70000,2023-07-15
+20,Thomas,Baker,Web Developer,IT,65000,2018-03-13
