@@ -1,0 +1,301 @@
+Customer_ID,First_Name,Last_Name,Age,Gender,City,State,Registration_Date,Customer_Type (Regular/VIP/New)
+1,Michael,Chavez,41,Male,Houston,Texas,2020-09-21,Regular
+2,Taylor,Johnson,43,Female,Las Vegas,Nevada,2019-06-18,Regular
+3,Taylor,Richardson,37,Female,San Jose,California,2020-02-04,Regular
+4,Serenity,Sanders,22,Female,San Diego,California,2021-03-12,Regular
+5,Lincoln,Morales,26,Male,Oklahoma City,Oklahoma,2025-03-29,VIP
+6,Gabriella,Lopez,41,Female,El Paso,Texas,2022-03-29,VIP
+7,Camila,Kim,43,Female,Seattle,Washington,2020-07-05,Regular
+8,Evan,Richardson,40,Male,Columbus,Ohio,2025-11-07,VIP
+9,Emma,Wright,25,Female,San Francisco,California,2023-09-01,Regular
+10,Jasmine,Reyes,42,Female,Jacksonville,Florida,2020-09-24,New
+11,Thomas,Walker,34,Male,Denver,Colorado,2025-04-16,VIP
+12,Juan,Brooks,42,Male,Denver,Colorado,2019-04-10,Regular
+13,Tristan,Williams,36,Male,Phoenix,Arizona,2020-08-07,VIP
+14,Mia,Thomas,19,Female,Nashville,Tennessee,2021-06-04,New
+15,John,Miller,26,Male,San Diego,California,2019-11-02,Regular
+16,Mason,Hill,34,Male,San Antonio,Texas,2019-12-25,Regular
+17,Giovanni,Cruz,36,Male,Charlotte,North Carolina,2025-01-12,Regular
+18,Tyler,Thompson,20,Male,Chicago,Illinois,2018-10-01,Regular
+19,Allison,Smith,42,Female,Indianapolis,Indiana,2024-10-28,VIP
+20,Giovanni,Phillips,38,Male,Denver,Colorado,2022-04-02,Regular
+21,Jason,Gutierrez,19,Male,Houston,Texas,2019-03-07,VIP
+22,Isabella,Gonzales,41,Female,"Washington, D.C.",District of Columbia,2018-04-07,Regular
+23,Blake,Taylor,40,Male,Philadelphia,Pennsylvania,2022-03-25,New
+24,Leah,King,19,Female,Columbus,Ohio,2025-09-16,Regular
+25,Audrey,Sanders,23,Female,Houston,Texas,2025-06-12,Regular
+26,Nolan,Nguyen,34,Male,Houston,Texas,2021-03-22,VIP
+27,Emily,Stewart,27,Female,Las Vegas,Nevada,2025-10-12,Regular
+28,Scarlett,Cruz,20,Female,Dallas,Texas,2022-12-20,Regular
+29,Jace,Price,45,Male,Las Vegas,Nevada,2023-05-26,Regular
+30,Gabriella,Turner,44,Female,Fort Worth,Texas,2025-09-19,Regular
+31,Chloe,Rodriguez,26,Female,"Washington, D.C.",District of Columbia,2024-11-29,Regular
+32,Aubree,Clark,41,Female,Los Angeles,California,2019-02-22,Regular
+33,Sarah,Adams,36,Female,San Francisco,California,2022-11-24,Regular
+34,London,Gonzales,29,Female,Phoenix,Arizona,2021-02-06,Regular
+35,Jesus,Morales,32,Male,Austin,Texas,2018-06-04,New
+36,Aiden,Sanchez,40,Male,Boston,Massachusetts,2020-01-06,Regular
+37,Kennedy,Hill,20,Female,Oklahoma City,Oklahoma,2021-05-12,Regular
+38,Brody,Bennet,25,Male,Austin,Texas,2022-12-24,Regular
+39,Zachary,Walker,31,Male,Denver,Colorado,2024-03-30,VIP
+40,Ian,Rivera,24,Male,San Antonio,Texas,2022-02-19,Regular
+41,Bailey,Wilson,18,Female,Oklahoma City,Oklahoma,2021-12-16,Regular
+42,Jackson,Gonzales,24,Male,San Francisco,California,2024-03-20,Regular
+43,Mariah,Chavez,35,Female,Philadelphia,Pennsylvania,2021-04-30,Regular
+44,Leah,Morales,18,Female,Indianapolis,Indiana,2023-09-05,Regular
+45,Harper,Chavez,43,Female,Denver,Colorado,2021-08-24,New
+46,Olivia,Bailey,32,Female,San Diego,California,2018-07-01,Regular
+47,Molly,Adams,29,Female,San Diego,California,2024-06-10,Regular
+48,Destiny,Cruz,35,Female,Boston,Massachusetts,2021-08-22,VIP
+49,Bailey,Richardson,44,Female,Los Angeles,California,2021-07-15,Regular
+50,Miles,Carter,18,Male,Indianapolis,Indiana,2019-07-14,Regular
+51,Miles,Bennet,31,Male,Austin,Texas,2024-08-29,VIP
+52,Bryce,Alvarez,27,Male,Philadelphia,Pennsylvania,2021-04-12,Regular
+53,Connor,Roberts,25,Male,Charlotte,North Carolina,2018-07-31,Regular
+54,Hailey,Hill,29,Female,Dallas,Texas,2018-09-03,Regular
+55,Katherine,Lopez,24,Female,Oklahoma City,Oklahoma,2019-09-04,Regular
+56,Serenity,Gray,25,Female,Indianapolis,Indiana,2024-10-14,Regular
+57,Caroline,Sanders,37,Female,Chicago,Illinois,2023-07-15,VIP
+58,Jaxon,Wilson,33,Male,San Diego,California,2024-09-22,New
+59,Logan,Myers,19,Male,Oklahoma City,Oklahoma,2024-07-26,New
+60,Austin,Rivera,27,Male,San Antonio,Texas,2021-01-09,New
+61,Brooke,Thompson,33,Female,"Washington, D.C.",District of Columbia,2023-05-30,Regular
+62,Samuel,Kim,24,Male,Seattle,Washington,2023-12-13,New
+63,Madelyn,Murphy,24,Female,Nashville,Tennessee,2019-06-16,Regular
+64,Lydia,Turner,44,Female,Denver,Colorado,2021-10-27,Regular
+65,Anna,Ward,28,Female,Charlotte,North Carolina,2018-11-04,New
+66,Serenity,Reyes,38,Female,Charlotte,North Carolina,2021-09-14,Regular
+67,Makayla,Nelson,20,Female,Columbus,Ohio,2023-07-17,New
+68,Elias,Wilson,39,Male,Houston,Texas,2023-07-22,Regular
+69,Aiden,Ramirez,42,Male,El Paso,Texas,2018-09-21,Regular
+70,Gianna,Hill,41,Female,Philadelphia,Pennsylvania,2023-12-11,VIP
+71,Ava,Clark,45,Female,Los Angeles,California,2021-03-25,Regular
+72,Bryce,Gray,31,Male,Indianapolis,Indiana,2023-01-14,Regular
+73,Autumn,Torres,22,Female,Austin,Texas,2021-01-28,New
+74,Caroline,Davis,25,Female,Chicago,Illinois,2022-10-02,Regular
+75,Emma,Taylor,36,Female,Columbus,Ohio,2025-09-19,Regular
+76,Jordan,Ramos,25,Male,Jacksonville,Florida,2020-04-26,Regular
+77,Chloe,White,30,Female,Indianapolis,Indiana,2023-08-06,Regular
+78,Melanie,Johnson,21,Female,"Washington, D.C.",District of Columbia,2021-04-09,New
+79,Justin,Mitchell,39,Male,San Antonio,Texas,2020-01-24,Regular
+80,Natalie,White,42,Female,San Jose,California,2025-11-26,Regular
+81,Camden,Williams,22,Male,Nashville,Tennessee,2020-06-13,Regular
+82,Mason,Baker,36,Male,Phoenix,Arizona,2021-12-16,New
+83,Alexa,Hill,38,Female,Dallas,Texas,2025-12-07,VIP
+84,Molly,Williams,35,Female,Jacksonville,Florida,2023-12-20,Regular
+85,Allison,Alvarez,24,Female,Boston,Massachusetts,2018-10-17,Regular
+86,Molly,Johnson,21,Female,Las Vegas,Nevada,2019-09-21,Regular
+87,Henry,Myers,38,Male,San Jose,California,2019-05-12,Regular
+88,Kennedy,Young,43,Female,Phoenix,Arizona,2018-07-01,Regular
+89,Brody,Diaz,24,Male,Jacksonville,Florida,2020-03-15,VIP
+90,Amelia,Scott,38,Female,Austin,Texas,2020-07-20,Regular
+91,Kaylee,Rivera,42,Female,Columbus,Ohio,2025-07-22,Regular
+92,Santiago,Jones,40,Male,Boston,Massachusetts,2025-11-22,Regular
+93,Alexis,Castillo,35,Female,Phoenix,Arizona,2019-07-11,New
+94,London,Baker,26,Female,Indianapolis,Indiana,2018-06-07,Regular
+95,Alice,Allen,33,Female,Jacksonville,Florida,2024-06-18,Regular
+96,Nathan,Gray,21,Male,Philadelphia,Pennsylvania,2023-06-07,Regular
+97,Sophia,Cruz,23,Female,Phoenix,Arizona,2023-12-24,Regular
+98,Lucy,Ward,34,Female,Dallas,Texas,2020-10-30,New
+99,Mila,Clark,24,Female,Dallas,Texas,2021-11-13,New
+100,Jesus,Hill,41,Male,Houston,Texas,2018-01-26,Regular
+101,Xavier,Ramirez,23,Male,Chicago,Illinois,2025-01-19,New
+102,Zoe,Hall,23,Female,San Francisco,California,2023-09-28,Regular
+103,Alexa,Stewart,24,Female,Charlotte,North Carolina,2019-02-09,Regular
+104,Levi,Foster,18,Male,San Jose,California,2020-06-03,Regular
+105,Carson,Alvarez,24,Male,San Antonio,Texas,2020-07-29,Regular
+106,Mary,Reyes,43,Female,Indianapolis,Indiana,2021-05-01,Regular
+107,Sydney,Chavez,35,Female,Seattle,Washington,2024-01-14,Regular
+108,Leo,Harris,24,Male,San Antonio,Texas,2018-05-20,Regular
+109,Paisley,Allen,26,Female,Dallas,Texas,2024-08-29,VIP
+110,Max,Chavez,33,Male,"Washington, D.C.",District of Columbia,2020-05-01,Regular
+111,Aaliyah,Murphy,45,Female,Los Angeles,California,2022-08-06,New
+112,Carson,Cox,28,Male,Denver,Colorado,2019-08-23,VIP
+113,Riley,Martinez,44,Female,Philadelphia,Pennsylvania,2022-06-11,Regular
+114,Taylor,Cox,31,Female,Charlotte,North Carolina,2023-11-27,Regular
+115,Jaxon,Brooks,20,Male,Chicago,Illinois,2022-06-24,New
+116,Sarah,White,26,Female,Phoenix,Arizona,2024-07-21,New
+117,Noah,Cox,29,Male,El Paso,Texas,2025-04-30,New
+118,Sadie,King,26,Female,Philadelphia,Pennsylvania,2021-05-23,Regular
+119,Madeline,Chavez,25,Female,Charlotte,North Carolina,2023-08-03,Regular
+120,Xavier,Ramos,21,Male,Boston,Massachusetts,2024-01-13,New
+121,Ethan,Davis,40,Male,San Diego,California,2024-05-18,New
+122,Harper,Bennet,37,Female,Philadelphia,Pennsylvania,2025-04-30,New
+123,Alexander,Young,33,Male,San Diego,California,2024-07-27,Regular
+124,Xavier,Kim,42,Male,Chicago,Illinois,2023-11-19,Regular
+125,Leo,Peterson,22,Male,Columbus,Ohio,2020-07-07,Regular
+126,Eric,Allen,23,Male,Las Vegas,Nevada,2023-05-12,Regular
+127,Mia,Gonzales,36,Female,San Antonio,Texas,2020-06-19,Regular
+128,Jayden,Roberts,33,Male,Dallas,Texas,2020-09-24,Regular
+129,Sophie,Brown,22,Female,Phoenix,Arizona,2022-10-15,Regular
+130,Lily,Robinson,33,Female,Chicago,Illinois,2024-02-17,Regular
+131,Carlos,Johnson,31,Male,Boston,Massachusetts,2023-08-12,New
+132,Aiden,Hernandez,45,Male,San Diego,California,2019-11-19,Regular
+133,Aubree,Peterson,33,Female,El Paso,Texas,2021-07-02,New
+134,Eleanor,Patel,24,Female,Denver,Colorado,2020-12-28,Regular
+135,Asher,Jackson,21,Male,San Antonio,Texas,2024-02-15,Regular
+136,Hannah,Perez,27,Female,San Francisco,California,2023-09-27,Regular
+137,Emily,Richardson,23,Female,Columbus,Ohio,2021-12-11,New
+138,Michael,Patel,43,Male,Phoenix,Arizona,2019-04-20,Regular
+139,Landon,Parker,25,Male,Seattle,Washington,2025-12-10,Regular
+140,Max,Cruz,39,Male,"Washington, D.C.",District of Columbia,2023-01-14,Regular
+141,Samantha,Murphy,24,Female,Columbus,Ohio,2018-09-02,Regular
+142,Faith,Cooper,29,Female,San Antonio,Texas,2024-05-12,New
+143,Kylie,Chavez,22,Female,Indianapolis,Indiana,2025-02-11,Regular
+144,Jose,Mitchell,42,Male,Los Angeles,California,2024-01-13,Regular
+145,Camden,Garcia,31,Male,San Antonio,Texas,2019-08-15,Regular
+146,Rylee,Patel,32,Female,Seattle,Washington,2019-06-30,Regular
+147,James,Watson,19,Male,Columbus,Ohio,2023-02-03,Regular
+148,Gabriel,Hall,27,Male,Boston,Massachusetts,2018-10-20,Regular
+149,Annabelle,Murphy,24,Female,Jacksonville,Florida,2022-02-09,Regular
+150,Taylor,Ramirez,22,Female,San Jose,California,2021-06-15,Regular
+151,Emma,Baker,35,Female,New York City,New York,2025-01-23,Regular
+152,Mateo,Davis,18,Male,Boston,Massachusetts,2025-04-03,Regular
+153,Gabriel,Cook,27,Male,Denver,Colorado,2022-07-19,Regular
+154,Daniel,Evans,41,Male,Dallas,Texas,2019-06-07,Regular
+155,Ryan,Ramirez,29,Male,Houston,Texas,2021-12-04,Regular
+156,Dominic,Murphy,40,Male,El Paso,Texas,2024-01-01,Regular
+157,Gabriel,Young,32,Male,Oklahoma City,Oklahoma,2020-12-31,Regular
+158,Kylie,Alvarez,32,Female,El Paso,Texas,2024-01-11,Regular
+159,Genesis,Sanders,35,Female,Philadelphia,Pennsylvania,2018-03-30,Regular
+160,Grace,Gray,39,Female,Houston,Texas,2025-02-07,New
+161,Alexandra,Mitchell,27,Female,El Paso,Texas,2024-01-21,Regular
+162,Jasmine,Ward,33,Female,Chicago,Illinois,2022-02-19,Regular
+163,Alyssa,Long,32,Female,Philadelphia,Pennsylvania,2023-08-18,New
+164,Lilly,Castillo,28,Female,Fort Worth,Texas,2024-10-16,New
+165,Madison,Walker,43,Female,Dallas,Texas,2023-02-19,Regular
+166,Leo,Bailey,22,Male,Los Angeles,California,2024-05-16,Regular
+167,Mariah,Nelson,33,Female,Seattle,Washington,2019-03-22,Regular
+168,Miles,Jimenez,18,Male,New York City,New York,2020-08-28,Regular
+169,Ava,Watson,18,Female,Denver,Colorado,2022-05-05,Regular
+170,Taylor,Thompson,35,Female,Boston,Massachusetts,2019-08-22,Regular
+171,Easton,Harris,22,Male,Jacksonville,Florida,2020-07-02,New
+172,Ella,Morris,18,Female,Austin,Texas,2023-05-08,Regular
+173,Jack,Morales,42,Male,Philadelphia,Pennsylvania,2018-01-09,Regular
+174,Thomas,Edwards,33,Male,Charlotte,North Carolina,2020-08-30,Regular
+175,Hannah,Collins,40,Female,El Paso,Texas,2018-06-30,Regular
+176,Maria,Patel,28,Female,Fort Worth,Texas,2021-09-17,Regular
+177,Eva,Martinez,19,Female,Las Vegas,Nevada,2023-10-01,New
+178,Savannah,Morris,20,Female,San Diego,California,2022-11-11,Regular
+179,Josiah,Kelly,41,Male,New York City,New York,2025-05-25,VIP
+180,Christopher,Bennet,44,Male,Houston,Texas,2022-05-28,Regular
+181,Jocelyn,Roberts,37,Female,Phoenix,Arizona,2020-12-12,New
+182,Christian,Watson,41,Male,Seattle,Washington,2022-07-04,Regular
+183,Layla,Campbell,31,Female,Las Vegas,Nevada,2021-12-31,Regular
+184,Bryson,Thompson,20,Male,Dallas,Texas,2018-04-28,New
+185,Carlos,Gomez,36,Male,Columbus,Ohio,2025-06-21,Regular
+186,Liam,Morales,44,Male,Boston,Massachusetts,2025-04-11,Regular
+187,Matthew,Taylor,26,Male,Phoenix,Arizona,2022-10-13,Regular
+188,Bentley,Kim,43,Male,Seattle,Washington,2018-11-07,Regular
+189,Brandon,Turner,42,Male,Nashville,Tennessee,2021-06-02,Regular
+190,Camden,Parker,32,Male,Indianapolis,Indiana,2022-05-22,Regular
+191,Vincent,Robinson,45,Male,Dallas,Texas,2020-05-29,Regular
+192,Allison,Rogers,24,Female,San Diego,California,2018-09-24,New
+193,Ryder,Bennet,26,Male,Dallas,Texas,2022-01-30,Regular
+194,Brody,Lopez,37,Male,Oklahoma City,Oklahoma,2019-01-17,Regular
+195,Stella,Rogers,36,Female,Seattle,Washington,2020-04-08,Regular
+196,Asher,Green,37,Male,Charlotte,North Carolina,2023-07-02,New
+197,Evan,Turner,35,Male,Charlotte,North Carolina,2021-05-23,New
+198,Anna,Roberts,41,Female,Las Vegas,Nevada,2024-08-29,Regular
+199,Kayden,Green,43,Male,Philadelphia,Pennsylvania,2024-02-24,Regular
+200,Noah,Cook,27,Male,San Diego,California,2019-10-06,New
+201,Scarlett,Cruz,38,Female,San Jose,California,2018-04-26,New
+202,Jace,White,38,Male,San Antonio,Texas,2024-04-05,Regular
+203,Savannah,Miller,39,Female,San Jose,California,2021-07-22,VIP
+204,Nora,Foster,20,Female,Dallas,Texas,2022-03-11,Regular
+205,Zachary,Thompson,20,Male,Columbus,Ohio,2022-09-11,Regular
+206,Lauren,Parker,23,Female,Jacksonville,Florida,2025-09-19,New
+207,Cameron,Adams,29,Male,Fort Worth,Texas,2021-12-31,Regular
+208,Sebastian,Howard,29,Male,"Washington, D.C.",District of Columbia,2021-12-10,New
+209,Caroline,Castillo,33,Female,Jacksonville,Florida,2024-06-25,New
+210,Santiago,Baker,32,Male,San Antonio,Texas,2021-12-18,Regular
+211,Ian,Lopez,42,Male,San Antonio,Texas,2023-09-08,Regular
+212,Henry,Brown,24,Male,Houston,Texas,2019-05-30,New
+213,Madeline,Morgan,29,Female,Philadelphia,Pennsylvania,2025-01-12,New
+214,Natalia,Phillips,37,Female,Austin,Texas,2025-01-02,New
+215,Sarah,Jackson,19,Female,Chicago,Illinois,2019-03-18,Regular
+216,John,Cook,38,Male,Indianapolis,Indiana,2019-05-25,New
+217,Caleb,Gutierrez,31,Male,Denver,Colorado,2020-12-02,Regular
+218,Max,Lewis,20,Male,El Paso,Texas,2019-08-05,Regular
+219,Eric,Morales,42,Male,Oklahoma City,Oklahoma,2023-07-03,New
+220,Gavin,Young,23,Male,Philadelphia,Pennsylvania,2019-07-22,New
+221,Alexis,Baker,39,Female,Austin,Texas,2018-01-06,Regular
+222,Aubrey,Mendoza,40,Female,Dallas,Texas,2020-07-30,Regular
+223,David,Robinson,34,Male,Indianapolis,Indiana,2025-01-10,Regular
+224,Kayla,Jones,39,Female,El Paso,Texas,2024-10-01,New
+225,Lydia,Reed,45,Female,New York City,New York,2023-12-06,Regular
+226,Jason,Morgan,19,Male,San Jose,California,2023-07-08,Regular
+227,Serenity,Brown,36,Female,Denver,Colorado,2020-03-22,Regular
+228,Robert,Cooper,45,Male,New York City,New York,2019-01-01,Regular
+229,Violet,Thomas,27,Female,El Paso,Texas,2024-07-27,Regular
+230,Morgan,Thompson,22,Female,Phoenix,Arizona,2024-10-06,Regular
+231,Carson,Davis,36,Male,Columbus,Ohio,2021-07-26,Regular
+232,Aubrey,Green,37,Female,Indianapolis,Indiana,2023-03-12,New
+233,Alyssa,Morgan,19,Female,Houston,Texas,2019-07-18,Regular
+234,Jose,Murphy,24,Male,Oklahoma City,Oklahoma,2023-04-18,Regular
+235,Eric,Sanders,40,Male,San Diego,California,2019-01-25,Regular
+236,Adam,Adams,36,Male,Houston,Texas,2020-02-29,Regular
+237,Gianna,Reed,33,Female,Houston,Texas,2023-03-11,Regular
+238,Mason,Johnson,34,Male,"Washington, D.C.",District of Columbia,2025-09-14,New
+239,Alexander,King,40,Male,Chicago,Illinois,2019-11-21,New
+240,Joshua,Young,41,Male,San Francisco,California,2023-10-14,Regular
+241,Dominic,Harris,29,Male,Nashville,Tennessee,2021-08-03,Regular
+242,Micah,Castillo,27,Male,Indianapolis,Indiana,2022-05-11,New
+243,Cole,Hill,37,Male,Oklahoma City,Oklahoma,2018-10-09,New
+244,Nora,Thompson,20,Female,Indianapolis,Indiana,2024-08-19,Regular
+245,Parker,Davis,36,Male,Houston,Texas,2018-05-24,Regular
+246,Isabelle,Parker,22,Female,Dallas,Texas,2022-04-28,Regular
+247,Henry,Scott,36,Male,Charlotte,North Carolina,2023-03-20,VIP
+248,David,Jimenez,43,Male,Chicago,Illinois,2018-04-06,Regular
+249,Christian,Bailey,23,Male,San Diego,California,2024-05-26,VIP
+250,Leo,Allen,40,Male,Oklahoma City,Oklahoma,2023-09-24,Regular
+251,Melanie,Harris,18,Female,Jacksonville,Florida,2023-12-27,New
+252,Kaylee,Turner,23,Female,Fort Worth,Texas,2020-08-31,Regular
+253,Ellie,Wood,32,Female,Chicago,Illinois,2018-10-23,Regular
+254,Chloe,Diaz,40,Female,Indianapolis,Indiana,2022-06-17,Regular
+255,Paisley,Brooks,43,Female,Nashville,Tennessee,2023-03-15,New
+256,Ian,Harris,32,Male,Jacksonville,Florida,2019-06-05,New
+257,Levi,Nguyen,36,Male,Phoenix,Arizona,2022-08-18,Regular
+258,David,Jimenez,23,Male,Columbus,Ohio,2025-06-14,New
+259,Isaac,Kim,38,Male,Phoenix,Arizona,2021-05-23,Regular
+260,Penelope,Gomez,27,Female,El Paso,Texas,2022-01-11,Regular
+261,John,Smith,28,Male,Los Angeles,California,2020-04-20,New
+262,Hayden,Gomez,18,Male,San Francisco,California,2023-10-06,Regular
+263,Hannah,Kim,44,Female,Los Angeles,California,2021-02-19,New
+264,Katherine,Wood,39,Female,New York City,New York,2025-04-23,Regular
+265,Riley,Harris,33,Female,Boston,Massachusetts,2024-07-15,Regular
+266,Madison,Flores,43,Female,Fort Worth,Texas,2018-05-17,Regular
+267,Jose,Thomas,39,Male,Las Vegas,Nevada,2020-06-21,Regular
+268,Kayden,Evans,42,Male,Chicago,Illinois,2025-07-01,Regular
+269,Melanie,Patel,38,Female,San Antonio,Texas,2021-07-15,Regular
+270,Tristan,Mendoza,41,Male,Nashville,Tennessee,2023-01-19,Regular
+271,Ariana,Cooper,26,Female,Chicago,Illinois,2020-01-06,Regular
+272,Jocelyn,Miller,40,Female,Dallas,Texas,2021-03-30,Regular
+273,Joseph,Turner,40,Male,El Paso,Texas,2019-03-05,VIP
+274,Bryce,Watson,34,Male,"Washington, D.C.",District of Columbia,2020-12-29,Regular
+275,Jacob,James,25,Male,Austin,Texas,2021-11-03,New
+276,Easton,Gray,43,Male,Nashville,Tennessee,2020-01-25,VIP
+277,Ryan,Roberts,45,Male,Dallas,Texas,2021-05-19,New
+278,Avery,Cooper,31,Female,Indianapolis,Indiana,2021-10-06,Regular
+279,Tyler,Wright,36,Male,Las Vegas,Nevada,2023-05-10,Regular
+280,Ariana,Martinez,29,Female,Seattle,Washington,2022-01-10,Regular
+281,Tristan,Alvarez,24,Male,Boston,Massachusetts,2019-11-15,Regular
+282,Abigail,Ramirez,36,Female,Houston,Texas,2019-12-08,Regular
+283,Lincoln,Cox,33,Male,Indianapolis,Indiana,2018-01-16,Regular
+284,Ava,Martin,45,Female,Austin,Texas,2023-01-31,Regular
+285,Tristan,Hernandez,35,Male,Fort Worth,Texas,2021-07-27,Regular
+286,Diego,Taylor,41,Male,Oklahoma City,Oklahoma,2021-02-28,Regular
+287,Genesis,Foster,36,Female,Charlotte,North Carolina,2022-09-09,Regular
+288,Nathaniel,Harris,18,Male,Boston,Massachusetts,2022-04-24,Regular
+289,Reagan,Harris,22,Female,San Diego,California,2020-06-03,New
+290,Matthew,Cruz,29,Male,San Francisco,California,2022-10-16,Regular
+291,Trinity,Bennet,41,Female,Fort Worth,Texas,2021-09-19,VIP
+292,Sophia,Perez,21,Female,San Diego,California,2024-06-11,Regular
+293,Blake,Rodriguez,24,Male,El Paso,Texas,2020-01-11,Regular
+294,Zachary,Green,20,Male,Denver,Colorado,2018-12-14,Regular
+295,Giovanni,Smith,42,Male,Jacksonville,Florida,2021-08-20,Regular
+296,Taylor,King,29,Female,San Diego,California,2021-05-17,Regular
+297,Alexander,Gomez,42,Male,Indianapolis,Indiana,2022-05-22,Regular
+298,Makayla,Nelson,37,Female,New York City,New York,2023-12-07,Regular
+299,Mia,Allen,39,Female,San Antonio,Texas,2022-01-12,New
+300,Violet,Wood,34,Female,El Paso,Texas,2025-12-27,Regular
