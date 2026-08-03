@@ -120,20 +120,23 @@ Revenue analysis showed that Laptops generated the highest revenue with **567,65
  Project Structure
 
 
-E-Commerce-SQL-Analysis/
-│
-├── ecommerce_analysis.sql
-├── data/
-│   ├── customers.csv
-│   ├── products.csv
-│   ├── categories.csv
-│   ├── suppliers.csv
-│   ├── orders.csv
-│   └── order_items.csv
-│
-├── screenshots/
-│
-└── README.md
+- `README.md`
+- `SQL/`
+  - `ecommerce_analysis.sql`
+- `data/`
+  - `customers.csv`
+  - `products.csv`
+  - `categories.csv`
+  - `suppliers.csv`
+  - `orders.csv`
+  - `order_items.csv`
+- `screenshots/`
+  - `database_structure.png`
+  - `dataset_example.png`
+  - `revenue_by_category.png`
+  - `top_customers.png`
+  - `monthly_revenue.png`
+  - `inventory_value.png`
 
 
 
@@ -157,3 +160,4 @@ Davit Sandodze
 Business Administration & Finance Student
 
 Learning SQL and Data Analytics
+
