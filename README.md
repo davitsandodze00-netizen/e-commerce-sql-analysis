@@ -122,12 +122,13 @@ Revenue analysis showed that Laptops generated the highest revenue with **567,65
 
 - `README.md`
 - `SQL/`
-  - `ecommerce_analysis.sql`
+  - `e-commerce_analysis.sql`
 - `data/`
   - `customers.csv`
   - `products.csv`
   - `categories.csv`
   - `suppliers.csv`
+  - `employees.csv`
   - `orders.csv`
   - `order_items.csv`
 - `screenshots/`
